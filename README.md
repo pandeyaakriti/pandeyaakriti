@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pandeyaakriti
 - 🌱 I’m currently pursuing undergrad in computer engineering
 - 📫 reach out to me via email
-- 😄 Pronouns: she/her 
+- ✍ I pen down my thoughts ocassionally at https://medium.com/@truly.aakriti
+
 
 <!---
 pandeyaakriti/pandeyaakriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
