@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pandeyaakriti
 - 🌱 I’m currently pursuing undergrad in computer engineering
-- ✍ I pen down my thoughts ocassionally at https://aakritimusings.blogspot.com
+
 
 
 <!---
